@@ -1,6 +1,6 @@
 # medicare-SynPUFs
 
-Analysis of a synthetically generated sample of Medicare claims data (Medicare SynPUFs)
+Analysis of a synthetically generated sample of Medicare claims data (Medicare SynPUFs) by **Maahir Shah**
 
 Medicare claims data is a complex dataset that includes a breadth of information. The use of interactive dashboards assists in the exploratory analysis of such complex data as it allows one to drill dow and filter information to tackle specific questions, and view data from different perspectives. This enables an individual/enterprise to make effective data-driven decisions based on complex data.
 
